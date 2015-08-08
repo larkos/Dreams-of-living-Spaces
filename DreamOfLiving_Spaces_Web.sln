@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreamOfLiving_Spaces_MvcWeb", "DreamOfLiving_Spaces_MvcWeb\DreamOfLiving_Spaces_MvcWeb.csproj", "{5EF9A1D6-4502-4D0B-9C30-477B2409EFE8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{9AC98F2A-A2D2-4FCA-A223-084DA7D70C54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dream_Of_Living_Spaces_MVC", "..\MvcApplication1\MvcApplication1\Dream_Of_Living_Spaces_MVC.csproj", "{918B0259-8D87-4E44-B41E-7072863CAFCE}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5EF9A1D6-4502-4D0B-9C30-477B2409EFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5EF9A1D6-4502-4D0B-9C30-477B2409EFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5EF9A1D6-4502-4D0B-9C30-477B2409EFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5EF9A1D6-4502-4D0B-9C30-477B2409EFE8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9AC98F2A-A2D2-4FCA-A223-084DA7D70C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9AC98F2A-A2D2-4FCA-A223-084DA7D70C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AC98F2A-A2D2-4FCA-A223-084DA7D70C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
